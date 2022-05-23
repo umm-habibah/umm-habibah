@@ -12,7 +12,7 @@
 
 ##### 🧰 LANGUAGES
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umm-habibah&layout=compact&langs_count=8&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umm-habibah&layout=compact&langs_count=8&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
