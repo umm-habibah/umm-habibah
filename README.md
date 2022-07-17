@@ -1,7 +1,6 @@
 #### 👋 Hi, I’m Umm-Habibah a junior PHP - Symfony developer based in France - [CV](https://github.com/umm-habibah/umm-habibah/blob/main/cv/CV_Umm-Habibah.pdf)
 
 
-
 ##### 👩‍🎓 BIO
 
 - 🌱 I’m currently learning Python on the [freecodecamp](https://www.freecodecamp.org/) website
